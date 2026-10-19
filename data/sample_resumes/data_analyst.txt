@@ -1,0 +1,24 @@
+David Chen
+Email: david.chen@analytics.net | LinkedIn: linkedin.com/in/davidchen-data | Location: Austin, TX
+
+SUMMARY
+Data Analyst with 3 years of experience transforming raw data into actionable business intelligence. Skilled in SQL, Python, Pandas, Tableau, and automated ETL data pipelines.
+
+TECHNICAL SKILLS
+- Programming & Analysis: Python, SQL, Pandas, NumPy, R
+- Databases & Warehouses: PostgreSQL, MySQL, Snowflake, BigQuery
+- Visualization & BI: Tableau, Power BI, Matplotlib, Seaborn
+- Practices: Git, Agile, ETL, Data Pipelines
+
+PROFESSIONAL EXPERIENCE
+
+Data Analyst | Austin Retail Insights | 2023 - Present
+- Created automated executive dashboards in Tableau and PostgreSQL tracking revenue KPIs.
+- Built Python and Pandas data cleaning scripts reducing reporting time by 15 hours weekly.
+
+Junior BI Analyst | CloudMetrics | 2021 - 2023
+- Wrote complex SQL queries across Snowflake and BigQuery for marketing campaign performance.
+- Partnered with product managers on exploratory data analysis.
+
+EDUCATION
+B.S. in Statistics | University of Texas at Austin | 2017 - 2021

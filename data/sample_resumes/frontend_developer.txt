@@ -1,0 +1,25 @@
+Sarah Jenkins
+Email: sarah.jenkins@webdev.io | Portfolio: sarahjenkins.dev | Location: New York, NY
+
+SUMMARY
+Creative Frontend Developer with 4 years of hands-on experience crafting responsive, performant, and accessible user interfaces. Highly proficient in React, Next.js, TypeScript, and modern CSS frameworks like Tailwind CSS.
+
+TECHNICAL SKILLS
+- Frontend: React, Next.js, Vue.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+- Backend & APIs: Node.js, Express.js, REST API, GraphQL
+- Version Control & DevOps: Git, GitHub, CI/CD, Docker
+- Testing & Methodologies: Jest, Unit Testing, Agile, Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Frontend Software Engineer | Nova Web Studios | 2022 - Present
+- Developed scalable React and Next.js customer portals serving 200k+ active users.
+- Migrated legacy codebase to TypeScript and Tailwind CSS, speeding up dev turnaround by 30%.
+- Implemented state management and GraphQL API queries with optimistic UI rendering.
+
+Junior Web Developer | PixelCraft Solutions | 2020 - 2022
+- Built interactive client websites using HTML, CSS, JavaScript, and Vue.js.
+- Partnered with UI/UX designers in an Agile Scrum environment.
+
+EDUCATION
+B.S. in Software Engineering | New York University | 2016 - 2020

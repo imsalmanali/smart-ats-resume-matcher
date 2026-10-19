@@ -1,0 +1,20 @@
+Job Title: Senior Machine Learning Engineer
+Company: CloudScale AI
+Location: Remote (US)
+
+Role Overview:
+We are seeking an exceptional Senior Machine Learning Engineer to design and deploy state-of-the-art NLP and Generative AI systems. You will collaborate with cross-functional engineering teams to build end-to-end ML microservices and scalable inference pipelines.
+
+Key Responsibilities:
+- Design, train, and fine-tune transformer models for NLP, search, and RAG architectures.
+- Build production-ready inference endpoints using FastAPI, Docker, and Kubernetes.
+- Implement robust MLOps workflows using MLflow, GitHub Actions, and AWS infrastructure.
+- Write maintainable, clean code in Python with comprehensive unit testing.
+
+Requirements:
+- 4+ years of industry experience with Machine Learning and Deep Learning.
+- Strong proficiency in Python, PyTorch or TensorFlow, and Scikit-Learn.
+- Experience with NLP, LLM, LangChain, Transformers, and HuggingFace.
+- Hands-on experience deploying containerized services with Docker and Kubernetes on AWS or GCP.
+- Familiarity with Vector Databases (Pinecone, ChromaDB, or Milvus) and PostgreSQL.
+- Strong background in software engineering best practices: Git, CI/CD, and Microservices.

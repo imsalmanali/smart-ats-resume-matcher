@@ -1,0 +1,19 @@
+Job Title: Fullstack Web Developer
+Company: Velocity Digital
+Location: Remote / Hybrid
+
+Role Overview:
+Velocity Digital is looking for a versatile Fullstack Web Developer to create modern web applications and customer-facing platforms.
+
+Key Responsibilities:
+- Develop responsive front-end user interfaces using React, Next.js, and TypeScript.
+- Build resilient backend APIs using Node.js, FastAPI, or Django with PostgreSQL databases.
+- Integrate third-party REST API and GraphQL endpoints.
+- Manage deployments with Docker, CI/CD, and AWS cloud services.
+
+Requirements:
+- 3+ years experience in fullstack web development.
+- Strong knowledge of TypeScript, JavaScript, React, HTML, and CSS / Tailwind CSS.
+- Hands-on experience with Node.js, Python, or FastAPI.
+- Proficient with SQL databases like PostgreSQL or MySQL.
+- Familiarity with Git, Agile sprints, and Unit Testing.

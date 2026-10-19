@@ -1,0 +1,28 @@
+Alex Rivera
+Email: alex.rivera@email.com | GitHub: github.com/alexrivera-ml | Location: San Francisco, CA
+
+SUMMARY
+Senior Machine Learning Engineer with 5+ years of experience designing, training, and deploying production ML systems and NLP pipelines. Experienced in Large Language Models (LLMs), RAG architectures, deep learning with PyTorch and Scikit-Learn, and building high-throughput FastAPI microservices.
+
+TECHNICAL SKILLS
+- Machine Learning & AI: PyTorch, TensorFlow, Scikit-Learn, HuggingFace, Transformers, LLM, RAG, LangChain, XGBoost, Pandas, NumPy, OpenCV, MLOps, MLflow
+- Programming Languages: Python, SQL, C++, Bash
+- Backend & APIs: FastAPI, Flask, Docker, REST API, Microservices
+- Cloud & DevOps: AWS (EC2, S3, SageMaker), Docker, Kubernetes, CI/CD, GitHub Actions, Linux
+- Databases & Vector Stores: PostgreSQL, Redis, Pinecone, ChromaDB
+
+PROFESSIONAL EXPERIENCE
+
+Senior ML Engineer | Apex AI Technologies | 2022 - Present
+- Architected enterprise Retrieval-Augmented Generation (RAG) agent using LangChain, PyTorch, and Pinecone, reducing query latency by 42%.
+- Trained custom transformer models using HuggingFace and PyTorch for sentiment classification and document entity extraction.
+- Developed scalable inference microservices using FastAPI and Docker on AWS EKS with Kubernetes, handling 15M+ requests daily.
+- Built automated MLOps pipelines using MLflow and GitHub Actions for continuous model evaluation and automated drift detection.
+
+Machine Learning Engineer | DataVision Labs | 2019 - 2022
+- Built end-to-end predictive customer models using Scikit-Learn and XGBoost, improving retention by 18%.
+- Optimized data pipelines using Pandas, NumPy, and PostgreSQL, processing 5TB+ weekly telemetry data.
+- Collaborated with software engineering teams adhering to Agile and Scrum methodologies.
+
+EDUCATION
+B.S. in Computer Science | University of California, Berkeley | 2015 - 2019
