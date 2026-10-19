@@ -68,9 +68,6 @@ flowchart TD
 
 ```text
 smart-ats-resume-matcher/
-├── .github/
-│   └── workflows/
-│       └── ci.yml                 # Automated GitHub Actions test runner
 ├── api/
 │   ├── __init__.py
 │   └── main.py                    # FastAPI REST API endpoints
